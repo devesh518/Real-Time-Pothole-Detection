@@ -1,0 +1,10 @@
+best_50epochs.pt
+best.pt
+nano_best.pt
+y8best.pt
+yolov8n.pt
+yolov8s.pt
+runs/detect/yolov8_50epochs/weights
+runs/detect/yolov8n_custom2/weights
+datasets
+pothole_dataset_v8
